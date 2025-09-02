@@ -20,5 +20,4 @@ A simple command-line Hangman game built with Python.
 - Life tracking
 - Game over and win screen
 
-## 📸 Sample Output
 
